@@ -1,0 +1,5 @@
+PCB/*.sch-bak
+PCB/*-cache
+PCB/*-cache.lib
+PCB/sym-lib-table
+Datasheets
