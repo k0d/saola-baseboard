@@ -1,4 +1,5 @@
 PCB/*.sch-bak
+PCB/*.kicad_pcb-bak
 PCB/*-cache
 PCB/*-cache.lib
 PCB/sym-lib-table
